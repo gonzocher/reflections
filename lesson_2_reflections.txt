@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+The directory receives a hidden file .git that makes it able to be tracked in git.  Without that file, 
+git does not recognize the directory and is unable to do anything with it.
