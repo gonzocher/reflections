@@ -1,3 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 The directory receives a hidden file .git that makes it able to be tracked in git.  Without that file, 
 git does not recognize the directory and is unable to do anything with it.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It seems that you have files in a working directory.  When you want to move it into your repository, it moves it first
+to the staging area, I guess as a way to verify your intention.  When you see it, then you move it.  I am not sure of
+the value yet.
