@@ -17,3 +17,7 @@ to work on a new deck of cards, like Corte's characters or monsters.
 How do the diagrams help you visualize the branch structure?
 The diagrams clearly show the branch structure.  In the git structure, or log, everything is not clearly shown, some even
 not showing up because of the lack of parentage.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Two different people are working on two branches of the project.  When they are both ready to put them together, git can
+auto merge them. It actually makes one new commit that both go into.
