@@ -13,3 +13,7 @@ After staging and diff --staged, I can see what changes I've made, assure that i
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Assume Becca's Set Game.  It would be useful to branch for me to work on an easy mode for her game.  She could branch
 to work on a new deck of cards, like Corte's characters or monsters.
+
+How do the diagrams help you visualize the branch structure?
+The diagrams clearly show the branch structure.  In the git structure, or log, everything is not clearly shown, some even
+not showing up because of the lack of parentage.
