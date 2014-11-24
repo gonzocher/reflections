@@ -21,3 +21,10 @@ not showing up because of the lack of parentage.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Two different people are working on two branches of the project.  When they are both ready to put them together, git can
 auto merge them. It actually makes one new commit that both go into.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+The major pro of automatic merging is the savings in time.  Git can tell where changes don't conflict and merge them in.
+Since git points out conflicts, I can merge knowing that if there is a problem, I can go in and manually make those changes
+before that final merge.
+What is the con?  Hmmm.  I can, if I want manually merge, by just choosing one file and making all the necesssary changes,
+so I can't see a con.  Again, my inexperience is probably the reason there.
