@@ -4,3 +4,7 @@ rather than keeping all your work local?
 I like the remote possibility because I use different 
 computers during the day.  Using a remote repository 
 keeps all of my files in easy access.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+I don't know.  I would like the automatic version I think.
