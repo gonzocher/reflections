@@ -17,3 +17,9 @@ It shows up in my GitHub.  To work on the code, I want to clone it onto my local
 can push it back to my GitHub.  I would use a branch to try something different?  
 before committing it into the main project?
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+People can work on GitHub.  No one can work on my local directory.  I have more control there.  
+If something gets messed up on GitHub, I still have a last known state of the remote stored locally.
+Smart!
+
