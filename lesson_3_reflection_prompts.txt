@@ -23,3 +23,9 @@ People can work on GitHub.  No one can work on my local directory.  I have more 
 If something gets messed up on GitHub, I still have a last known state of the remote stored locally.
 Smart!
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+To help Becca with a project, I would like her to put her project on her local computer with Git, 
+then add it to GitHub so that I can see it.  I would fork it and pull it into my local Git, where I could work on 
+it by creating a new branch.  When I think I have a good solution, I would push it to GitHub and make a pull request
+for Becca to check it out.  If she is interested, she could then merge it into her master file.
