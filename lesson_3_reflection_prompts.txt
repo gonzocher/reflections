@@ -25,13 +25,17 @@ Smart!
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
+We could sit down with our laptops next to each other and compare.  Easier to just add little bits in.  Harder when it is complicated code.
+
 To help Becca with a project, I would like her to put her project on her local computer with Git, 
 then add it to GitHub so that I can see it.  I would fork it and pull it into my local Git, where I could work on 
 it by creating a new branch.  When I think I have a good solution, I would push it to GitHub and make a pull request
 for Becca to check it out.  If she is interested, she could then merge it into her master file.
 
-When would you want to make changes in a separate branch rather than directly in master? 
-What benefits does each approach have?
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+If we want to try it first, see if we can make it work.  Once it's working, merge it back in.
+
 When I possibly want to make a change without killing the application at present, I can create a branch to 
 try it out first.  I can then have another look at it.  If we like it, I can merge it into the master and 
 delete the trial branch.  Working directly in the master, however, will be less complicated.
