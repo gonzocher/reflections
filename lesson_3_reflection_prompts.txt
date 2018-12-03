@@ -1,3 +1,5 @@
+Adding a change here so I can figure out how to update github back to match git.  so this is the BROKEN page.
+
 When would you want to use a remote repository 
 rather than keeping all your work local?
 
@@ -34,3 +36,4 @@ What benefits does each approach have?
 When I possibly want to make a change without killing the application at present, I can create a branch to 
 try it out first.  I can then have another look at it.  If we like it, I can merge it into the master and 
 delete the trial branch.  Working directly in the master, however, will be less complicated.
+
